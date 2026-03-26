@@ -2,7 +2,6 @@
 # (mobile-friendly)
 
 
-
 import pygame
 import random
 import sys
