@@ -1,4 +1,7 @@
-# Nokiah Snake-Game [for Android Phones]
+# Nokiah Snake-Game
+# (mobile-friendly)
+
+
 
 import pygame
 import random
